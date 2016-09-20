@@ -3,6 +3,7 @@
 namespace yasheena\view;
 
 use yii\i18n\Formatter;
+use yii\helpers\Html;
 
 class YFormatter extends Formatter
 {
