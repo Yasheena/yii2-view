@@ -3,7 +3,7 @@
     "description": "This packet contains some helpful code for creating views for the framework YII2.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","view","formatter"],
-    "license": "GPL-3.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Wolfgang Mattis",
