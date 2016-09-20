@@ -32,4 +32,7 @@ Usage
 Once the extension is installed, simply use it in your code by:
 
 YFormatter: Add the following line to your grid options and you can use the new formats:
-	'formatter' => new \yasheena\view\YFormatter()
+
+```
+'formatter' => new \yasheena\view\YFormatter()
+```
